@@ -8,7 +8,7 @@ Current only works on Windows. I have plans to add Mac support. Linux support wi
 ###Prerequisites for Windows:
 
 You will have ideally installed the Neurosky Mindwave driver using the CD that came with the peripheral,
-if not, it's a component of Neurosky's "Mindwave Bundle for Window".
+if not, it's a component of Neurosky's "Mindwave Bundle for Windows".
 You can find the latest version of the package here - http://download.neurosky.com/updates/mindwave/education/1.1.28.0/MindWave.zip
 
 ###All systems:
@@ -26,7 +26,7 @@ NPM support coming soon.
 
 ###Basic Usage:
 
-Given the nature of the Mindwave's operation it's API is a little unusual, but  is event based and fairly simple.
+Given the nature of the Mindwave's operation it's API is a little unusual. However, it's event based and fairly simple.
 You're essentially required to create a new instance of the device, and then use the events it triggers to poll the device.
 
 The example below demonstrates all the available events.
