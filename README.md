@@ -3,16 +3,15 @@
 A Node JS cross platform native module for the Neurosky Mindwave - http://store.neurosky.com/products/mindwave-1.
 Current only works on Windows. I have plans to add Mac support. Linux support will depend on time and demand. Basic instructions for use are as follows:
 
-###Installation:
+###Installation
 
-###Prerequisites:
-###Windows
+###Prerequisites for Windows:
 
 You will have ideally installed the Neurosky Mindwave driver using the CD that came with the peripheral,
 if not, it's a component of Neurosky's "Mindwave Bundle for Window".
 You can find the latest version of the package here - http://download.neurosky.com/updates/mindwave/education/1.1.28.0/MindWave.zip
 
-###All systems
+###All systems:
 
 Make sure you have Node JS installed, obviously. Node-Gyp is essential too.
 Copy the repo to your machine. Using the command terminal, 'cd' into the repo/module and run:
