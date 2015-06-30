@@ -1,7 +1,7 @@
 {
   "name": "node-mindwave",
-  "version": "0.0.0",
-  "description": "Node.js Addons Example #1",
-  "main": "hello.js",
+  "version": "0.1.0",
+  "description": "Node Mindwave",
+  "main": "index.js",
   "gypfile": true
 }
